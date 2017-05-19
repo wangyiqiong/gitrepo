@@ -1,0 +1,16 @@
+#注释
+
+#不能忽略.gitignore 这个文件
+
+!.gitignore
+
+
+#忽略demo5.txt这个文件
+
+demo5.txt
+
+
+#忽略test.* 的所有文件
+
+
+#忽略terget 路径下所有文件，包括根目录下以及子目录下的target路径
