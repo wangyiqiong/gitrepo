@@ -14,3 +14,4 @@ demo5.txt
 test.*
 
 #忽略terget 路径下所有文件，包括根目录下以及子目录下的target路径
+terget *
